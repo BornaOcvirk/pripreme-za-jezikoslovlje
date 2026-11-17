@@ -1,0 +1,5 @@
+# programi
+numpy
+nltk
+# izrada PDF-ova (izrada/napravi_pdfove.py)
+reportlab
